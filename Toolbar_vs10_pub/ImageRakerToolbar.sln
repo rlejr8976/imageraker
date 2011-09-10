@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageRakerToolbar", "ImageR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageRakerToolbarTestProject", "ImageRakerToolbarTestProject\ImageRakerToolbarTestProject.csproj", "{F0499145-3BB1-4850-A835-222AE9BFBBB2}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ImageRakerSetup", "..\ImageRakerSetup\ImageRakerSetup.vdproj", "{FCC62E4F-82C4-4670-BB84-2264E8918CAF}"
+EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = ImageRakerToolbar.vsmdi
@@ -28,6 +30,10 @@ Global
 		{F0499145-3BB1-4850-A835-222AE9BFBBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0499145-3BB1-4850-A835-222AE9BFBBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0499145-3BB1-4850-A835-222AE9BFBBB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC62E4F-82C4-4670-BB84-2264E8918CAF}.Debug|Any CPU.ActiveCfg = Debug
+		{FCC62E4F-82C4-4670-BB84-2264E8918CAF}.Debug|Any CPU.Build.0 = Debug
+		{FCC62E4F-82C4-4670-BB84-2264E8918CAF}.Release|Any CPU.ActiveCfg = Release
+		{FCC62E4F-82C4-4670-BB84-2264E8918CAF}.Release|Any CPU.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
